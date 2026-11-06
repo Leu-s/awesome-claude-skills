@@ -243,6 +243,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [threadpage](https://github.com/ThreadPage/threadpage-companion/tree/main/plugins/threadpage/skills) - Connects a Claude Code session to your ThreadPage project threads under its own @name; with Pro it reads and adds notes and takes requests you send from any browser.
 
 
 ## 🛡 Security & Web Testing
